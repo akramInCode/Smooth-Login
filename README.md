@@ -3,6 +3,7 @@
 
 ## Overview
 This project features a double slider login form that allows users to switch between the sign-up and sign-in forms with a smooth transition. The form is built using HTML, CSS, and JavaScript, providing an elegant and user-friendly experience.
+![image alt](https://github.com/akramInCode/Smooth-Login/blob/7ee9e018365cc4213822c97a3d907096bb5b860a/readme-result.png)
 
 ## Features
 - **Responsive Design**: The form adapts to different screen sizes and devices.
